@@ -2,4 +2,4 @@
 download lavalink + application.yml
 
 ```
-git clone https://github.com/Avi2427/lavalink.jar.git
+git clone https://github.com/Discobotdevlolhehe/lavalink.jar.git
